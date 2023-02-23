@@ -1,0 +1,5 @@
+{
+    "port": 80,
+    "secretKey": "Make this long and keep it a secret. You'll need it later!",
+    "comment": "Change your port if you want, it's 80 on replit."
+}
